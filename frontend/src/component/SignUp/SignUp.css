@@ -1,0 +1,55 @@
+
+.signup{
+    margin:15px;
+    margin-left:25px;
+}
+.top input{
+    border: 1px solid cyan;
+    border-radius: 5px;
+    margin:10px;
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 90%;
+    height: 38px;
+    padding-left:15px;
+}
+.dob{
+    margin-left:10px;
+}
+.dob label{
+     color:black;
+     font-weight: bolder;
+     font-size: 25px;
+     width: 90%;
+}
+.dob input{
+    border: 1px solid cyan;
+    border-radius: 5px;
+    padding-left:25px;
+    height: 30px;
+    width: 90%;
+    height: 38px;
+}
+
+.check{
+    margin-left:10px;
+    margin:20px;
+    padding-right: 20px;
+    font-weight:bolder;
+    font-size: 20px;
+    color:black;
+    width: 90%;
+    font-weight: bolder;
+    z-index:999;
+}
+.top h4{
+    color:rgb(5, 5, 5);
+    margin:10px;
+    font-weight: bolder;
+    font-size: 30;
+}
+
+
+

@@ -1,0 +1,35 @@
+.landing1{
+    display:flex;
+    color:black;
+    text-align: center;
+}
+.seat-view{
+    margin:5px;
+    width:50%;
+}
+.summary{
+    margin:5px;
+    width:50%;
+}
+.summary h3{
+    border-bottom:2px solid cyan;
+    margin-left: 20px;
+}
+.bLeft
+{
+    width: 212px;
+    color:black;
+    font-size:18px;
+    padding: 5px;
+    font-weight: bold;
+}
+
+
+.bRight
+{
+    width: 212px;
+    color:black; 
+    font-size: 18px;
+    font-weight: bolder; 
+    padding:5px;
+}

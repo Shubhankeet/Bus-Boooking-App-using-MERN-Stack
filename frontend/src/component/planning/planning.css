@@ -1,0 +1,25 @@
+.planning{
+    display:flex;
+    justify-content: space-evenly;
+    align-items:center;
+    flex-direction: row;
+    margin:10px;
+    height:50%;
+    flex-wrap: wrap;
+    color: black;
+    font-weight: bolder;
+}
+.planning .form-control{
+
+    width:200px;
+    border:1px solid cyan;
+}
+.planning #doj{
+    width:200px;
+    height: 37px;
+    border-radius: 5px;
+    border:1px solid cyan;
+}
+.planning button{
+  margin-top:30px;
+}

@@ -1,0 +1,54 @@
+
+.nav-land{
+    position: relative;
+    top:15px;
+    left:80%;
+    display:flex;
+    width:20%;
+    flex-wrap: wrap;
+}
+.nav-land button{
+    margin-left:15px;
+}
+.landing{
+    position:relative;
+    top:100px;
+    left:15%;
+    width:70%;
+    border:2px solid cyan;
+    border-radius:4px;
+    backdrop-filter: blur(5px);
+}
+.landing ul{
+    margin:10px;
+
+}
+
+.isDisabled {
+    cursor: not-allowed;
+    text-decoration: none;
+    pointer-events: none;
+    color:rgb(0, 0, 0);
+  }
+.landing ul li a{
+    font-size: 19px;
+    font-weight: bolder;
+}
+
+/*.welcome{
+    margin-top: 100px;
+    text-align: center;
+    color: rgb(0, 38, 255);
+    animation-name: wel;
+    animation: wel 10s infinite;
+}
+
+@keyframes wel{
+  0%   {color:red; left:0px; top:0px;}
+  25%  {color:yellow; left:0px; top:0px;}
+  50%  {color:blue; right:0px; top:0px;}
+  75%  {color:cyan; left:0px; top:0px;}
+  100% {color:red; left:0px; top:0px;}
+}
+*/
+

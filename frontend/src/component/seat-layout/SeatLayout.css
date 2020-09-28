@@ -1,0 +1,29 @@
+.seats{
+    list-style-type: none;
+    display:flex;
+    flex-direction: column;
+    width:500px;
+    height:170px;
+    flex-wrap:wrap;
+    padding:5px;
+    border-radius: 3px;
+}
+.seats li{
+    display:flex;
+    list-style: none;
+    margin:5px;
+    width:35px;
+    height:35px;
+    align-items: center;
+    justify-content:center;
+}
+.seats li.bookedSeat{
+    background-color:red;
+}
+.seats li.selectSeat{
+    background-color:green;
+}
+.fare-details{
+    position: relative;
+    left:102%;
+}
